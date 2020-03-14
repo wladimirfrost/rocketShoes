@@ -3,10 +3,8 @@
 </h1>
 
 <h3 align="center">
-  Arquitetura Flux
+  Arquitetura Flux com Redux
 </h3>
-
-<p align="center">Primeiro projeto com Redux</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/rocketShoes">
