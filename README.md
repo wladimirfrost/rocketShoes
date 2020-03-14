@@ -1,5 +1,5 @@
 <h1 align="center">
-  
+    <img alt="RocketShoes" src=".github/logo.jpg" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -18,6 +18,10 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <img alt="App" src=".github/rocketShoes.png" width="100%">
 </p>
 
 ## 🚀 Instalação e execução
